@@ -7,7 +7,9 @@ Tampilan antarmuka Sistem Penjualan Sparepart Motor:
 | Screenshot | Screenshot |
 |------------|------------|
 <img src="assets/images/Cloud.jpeg" width="400"> | <img src="assets/images/tambah data.jpeg" width="400"> |
-
+| Screenshot |
+|------------|
+<img src="assets/images/database.png" width="400"> |
 ## Get started
 
 1. Install dependencies
