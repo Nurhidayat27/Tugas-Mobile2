@@ -3,10 +3,12 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 Tampilan antarmuka Sistem Penjualan Sparepart Motor:
-
+# Tampilan
 | Screenshot | Screenshot |
 |------------|------------|
 <img src="assets/images/Cloud.jpeg" width="400"> | <img src="assets/images/tambah data.jpeg" width="400"> |
+
+# Database Supabase
 | Screenshot |
 |------------|
 <img src="assets/images/database.png" width="400"> |
