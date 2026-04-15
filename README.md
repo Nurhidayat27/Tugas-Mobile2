@@ -10,7 +10,7 @@ Tampilan antarmuka Sistem Penjualan Sparepart Motor:
 
 # Database Supabase
 | Screenshot |
-|------------|
+|------------
 <img src="assets/images/database.png" width="400"> |
 ## Get started
 
